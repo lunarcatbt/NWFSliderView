@@ -7,6 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0033CF3D1C489E5700363164 /* progress bar@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0033CF391C489E5700363164 /* progress bar@2x.png */; };
+		0033CF3E1C489E5700363164 /* progress bar@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0033CF3A1C489E5700363164 /* progress bar@3x.png */; };
+		0033CF3F1C489E5700363164 /* remark@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0033CF3B1C489E5700363164 /* remark@2x.png */; };
+		0033CF401C489E5700363164 /* remark@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0033CF3C1C489E5700363164 /* remark@3x.png */; };
+		0033CF431C48A2D400363164 /* PopLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 0033CF421C48A2D400363164 /* PopLabel.m */; };
+		0033CF461C48A4EC00363164 /* Graduation@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0033CF441C48A4EC00363164 /* Graduation@2x.png */; };
+		0033CF471C48A4EC00363164 /* Graduation@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0033CF451C48A4EC00363164 /* Graduation@3x.png */; };
+		0033CF4A1C48C2F800363164 /* green@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0033CF481C48C2F800363164 /* green@2x.png */; };
+		0033CF4B1C48C2F800363164 /* green@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0033CF491C48C2F800363164 /* green@3x.png */; };
+		0051F5661C45EB8C00EB0566 /* NMRangeSlider.m in Sources */ = {isa = PBXBuildFile; fileRef = 0051F5651C45EB8C00EB0566 /* NMRangeSlider.m */; };
+		0051F5691C45EC7D00EB0566 /* NWFRangeSliderView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0051F5681C45EC7D00EB0566 /* NWFRangeSliderView.m */; };
+		0051F56B1C45EEE900EB0566 /* thumb@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0051F56A1C45EEE900EB0566 /* thumb@2x.png */; };
+		0051F5741C45EF9800EB0566 /* slider-default7-trackBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = 0051F56C1C45EF9800EB0566 /* slider-default7-trackBackground.png */; };
+		0051F5751C45EF9800EB0566 /* slider-default7-trackBackground@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0051F56D1C45EF9800EB0566 /* slider-default7-trackBackground@2x.png */; };
+		0051F5761C45EF9800EB0566 /* slider-default7-trackCrossedOver.png in Resources */ = {isa = PBXBuildFile; fileRef = 0051F56E1C45EF9800EB0566 /* slider-default7-trackCrossedOver.png */; };
+		0051F5771C45EF9800EB0566 /* slider-default7-trackCrossedOver@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0051F56F1C45EF9800EB0566 /* slider-default7-trackCrossedOver@2x.png */; };
+		0051F5781C45EF9800EB0566 /* slider-default7-track.png in Resources */ = {isa = PBXBuildFile; fileRef = 0051F5701C45EF9800EB0566 /* slider-default7-track.png */; };
+		0051F5791C45EF9800EB0566 /* slider-default7-track@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0051F5711C45EF9800EB0566 /* slider-default7-track@2x.png */; };
+		0051F57A1C45EF9800EB0566 /* slider-default7-handle.png in Resources */ = {isa = PBXBuildFile; fileRef = 0051F5721C45EF9800EB0566 /* slider-default7-handle.png */; };
+		0051F57B1C45EF9800EB0566 /* slider-default7-handle@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0051F5731C45EF9800EB0566 /* slider-default7-handle@2x.png */; };
+		0051F57E1C4734C400EB0566 /* TickNumSlider.m in Sources */ = {isa = PBXBuildFile; fileRef = 0051F57D1C4734C400EB0566 /* TickNumSlider.m */; };
+		0051F5851C478FE200EB0566 /* SliderTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0051F5831C478FE200EB0566 /* SliderTableViewCell.m */; };
+		0051F5861C478FE200EB0566 /* SliderTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0051F5841C478FE200EB0566 /* SliderTableViewCell.xib */; };
 		1897D57B1C4541BE00DC81E6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1897D57A1C4541BE00DC81E6 /* main.m */; };
 		1897D57E1C4541BE00DC81E6 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1897D57D1C4541BE00DC81E6 /* AppDelegate.m */; };
 		1897D5811C4541BE00DC81E6 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1897D5801C4541BE00DC81E6 /* ViewController.m */; };
@@ -17,6 +40,34 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0033CF391C489E5700363164 /* progress bar@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "progress bar@2x.png"; sourceTree = "<group>"; };
+		0033CF3A1C489E5700363164 /* progress bar@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "progress bar@3x.png"; sourceTree = "<group>"; };
+		0033CF3B1C489E5700363164 /* remark@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "remark@2x.png"; sourceTree = "<group>"; };
+		0033CF3C1C489E5700363164 /* remark@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "remark@3x.png"; sourceTree = "<group>"; };
+		0033CF411C48A2D400363164 /* PopLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PopLabel.h; sourceTree = "<group>"; };
+		0033CF421C48A2D400363164 /* PopLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PopLabel.m; sourceTree = "<group>"; };
+		0033CF441C48A4EC00363164 /* Graduation@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Graduation@2x.png"; sourceTree = "<group>"; };
+		0033CF451C48A4EC00363164 /* Graduation@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Graduation@3x.png"; sourceTree = "<group>"; };
+		0033CF481C48C2F800363164 /* green@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "green@2x.png"; sourceTree = "<group>"; };
+		0033CF491C48C2F800363164 /* green@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "green@3x.png"; sourceTree = "<group>"; };
+		0051F5641C45EB8C00EB0566 /* NMRangeSlider.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NMRangeSlider.h; sourceTree = "<group>"; };
+		0051F5651C45EB8C00EB0566 /* NMRangeSlider.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NMRangeSlider.m; sourceTree = "<group>"; };
+		0051F5671C45EC7D00EB0566 /* NWFRangeSliderView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NWFRangeSliderView.h; sourceTree = "<group>"; };
+		0051F5681C45EC7D00EB0566 /* NWFRangeSliderView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NWFRangeSliderView.m; sourceTree = "<group>"; };
+		0051F56A1C45EEE900EB0566 /* thumb@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thumb@2x.png"; sourceTree = "<group>"; };
+		0051F56C1C45EF9800EB0566 /* slider-default7-trackBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "slider-default7-trackBackground.png"; sourceTree = "<group>"; };
+		0051F56D1C45EF9800EB0566 /* slider-default7-trackBackground@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "slider-default7-trackBackground@2x.png"; sourceTree = "<group>"; };
+		0051F56E1C45EF9800EB0566 /* slider-default7-trackCrossedOver.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "slider-default7-trackCrossedOver.png"; sourceTree = "<group>"; };
+		0051F56F1C45EF9800EB0566 /* slider-default7-trackCrossedOver@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "slider-default7-trackCrossedOver@2x.png"; sourceTree = "<group>"; };
+		0051F5701C45EF9800EB0566 /* slider-default7-track.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "slider-default7-track.png"; sourceTree = "<group>"; };
+		0051F5711C45EF9800EB0566 /* slider-default7-track@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "slider-default7-track@2x.png"; sourceTree = "<group>"; };
+		0051F5721C45EF9800EB0566 /* slider-default7-handle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "slider-default7-handle.png"; sourceTree = "<group>"; };
+		0051F5731C45EF9800EB0566 /* slider-default7-handle@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "slider-default7-handle@2x.png"; sourceTree = "<group>"; };
+		0051F57C1C4734C400EB0566 /* TickNumSlider.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TickNumSlider.h; sourceTree = "<group>"; };
+		0051F57D1C4734C400EB0566 /* TickNumSlider.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TickNumSlider.m; sourceTree = "<group>"; };
+		0051F5821C478FE200EB0566 /* SliderTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SliderTableViewCell.h; sourceTree = "<group>"; };
+		0051F5831C478FE200EB0566 /* SliderTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SliderTableViewCell.m; sourceTree = "<group>"; };
+		0051F5841C478FE200EB0566 /* SliderTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SliderTableViewCell.xib; sourceTree = "<group>"; };
 		1897D5761C4541BE00DC81E6 /* SomeTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SomeTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1897D57A1C4541BE00DC81E6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		1897D57C1C4541BE00DC81E6 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -65,12 +116,40 @@
 				1897D57D1C4541BE00DC81E6 /* AppDelegate.m */,
 				1897D5901C45423100DC81E6 /* NWFSliderTickView.h */,
 				1897D5911C45423100DC81E6 /* NWFSliderTickView.m */,
+				0033CF411C48A2D400363164 /* PopLabel.h */,
+				0033CF421C48A2D400363164 /* PopLabel.m */,
+				0051F57C1C4734C400EB0566 /* TickNumSlider.h */,
+				0051F57D1C4734C400EB0566 /* TickNumSlider.m */,
+				0051F5641C45EB8C00EB0566 /* NMRangeSlider.h */,
+				0051F5651C45EB8C00EB0566 /* NMRangeSlider.m */,
+				0051F5671C45EC7D00EB0566 /* NWFRangeSliderView.h */,
+				0051F5681C45EC7D00EB0566 /* NWFRangeSliderView.m */,
 				1897D57F1C4541BE00DC81E6 /* ViewController.h */,
 				1897D5801C4541BE00DC81E6 /* ViewController.m */,
+				0051F5821C478FE200EB0566 /* SliderTableViewCell.h */,
+				0051F5831C478FE200EB0566 /* SliderTableViewCell.m */,
+				0051F5841C478FE200EB0566 /* SliderTableViewCell.xib */,
 				1897D5821C4541BE00DC81E6 /* Main.storyboard */,
 				1897D5851C4541BE00DC81E6 /* Assets.xcassets */,
 				1897D5871C4541BE00DC81E6 /* LaunchScreen.storyboard */,
 				1897D58A1C4541BE00DC81E6 /* Info.plist */,
+				0033CF441C48A4EC00363164 /* Graduation@2x.png */,
+				0033CF451C48A4EC00363164 /* Graduation@3x.png */,
+				0033CF481C48C2F800363164 /* green@2x.png */,
+				0033CF491C48C2F800363164 /* green@3x.png */,
+				0033CF391C489E5700363164 /* progress bar@2x.png */,
+				0033CF3A1C489E5700363164 /* progress bar@3x.png */,
+				0033CF3B1C489E5700363164 /* remark@2x.png */,
+				0033CF3C1C489E5700363164 /* remark@3x.png */,
+				0051F56A1C45EEE900EB0566 /* thumb@2x.png */,
+				0051F56C1C45EF9800EB0566 /* slider-default7-trackBackground.png */,
+				0051F56D1C45EF9800EB0566 /* slider-default7-trackBackground@2x.png */,
+				0051F56E1C45EF9800EB0566 /* slider-default7-trackCrossedOver.png */,
+				0051F56F1C45EF9800EB0566 /* slider-default7-trackCrossedOver@2x.png */,
+				0051F5701C45EF9800EB0566 /* slider-default7-track.png */,
+				0051F5711C45EF9800EB0566 /* slider-default7-track@2x.png */,
+				0051F5721C45EF9800EB0566 /* slider-default7-handle.png */,
+				0051F5731C45EF9800EB0566 /* slider-default7-handle@2x.png */,
 				1897D5791C4541BE00DC81E6 /* Supporting Files */,
 			);
 			path = SomeTest;
@@ -142,7 +221,25 @@
 			buildActionMask = 2147483647;
 			files = (
 				1897D5891C4541BE00DC81E6 /* LaunchScreen.storyboard in Resources */,
+				0051F5781C45EF9800EB0566 /* slider-default7-track.png in Resources */,
+				0051F5771C45EF9800EB0566 /* slider-default7-trackCrossedOver@2x.png in Resources */,
+				0033CF4B1C48C2F800363164 /* green@3x.png in Resources */,
+				0051F5751C45EF9800EB0566 /* slider-default7-trackBackground@2x.png in Resources */,
+				0051F56B1C45EEE900EB0566 /* thumb@2x.png in Resources */,
+				0051F5761C45EF9800EB0566 /* slider-default7-trackCrossedOver.png in Resources */,
+				0033CF4A1C48C2F800363164 /* green@2x.png in Resources */,
+				0051F57A1C45EF9800EB0566 /* slider-default7-handle.png in Resources */,
+				0051F57B1C45EF9800EB0566 /* slider-default7-handle@2x.png in Resources */,
+				0051F5861C478FE200EB0566 /* SliderTableViewCell.xib in Resources */,
 				1897D5861C4541BE00DC81E6 /* Assets.xcassets in Resources */,
+				0051F5791C45EF9800EB0566 /* slider-default7-track@2x.png in Resources */,
+				0033CF471C48A4EC00363164 /* Graduation@3x.png in Resources */,
+				0051F5741C45EF9800EB0566 /* slider-default7-trackBackground.png in Resources */,
+				0033CF3F1C489E5700363164 /* remark@2x.png in Resources */,
+				0033CF401C489E5700363164 /* remark@3x.png in Resources */,
+				0033CF461C48A4EC00363164 /* Graduation@2x.png in Resources */,
+				0033CF3D1C489E5700363164 /* progress bar@2x.png in Resources */,
+				0033CF3E1C489E5700363164 /* progress bar@3x.png in Resources */,
 				1897D5841C4541BE00DC81E6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -156,8 +253,13 @@
 			files = (
 				1897D5811C4541BE00DC81E6 /* ViewController.m in Sources */,
 				1897D57E1C4541BE00DC81E6 /* AppDelegate.m in Sources */,
+				0051F57E1C4734C400EB0566 /* TickNumSlider.m in Sources */,
 				1897D5921C45423100DC81E6 /* NWFSliderTickView.m in Sources */,
+				0033CF431C48A2D400363164 /* PopLabel.m in Sources */,
+				0051F5661C45EB8C00EB0566 /* NMRangeSlider.m in Sources */,
 				1897D57B1C4541BE00DC81E6 /* main.m in Sources */,
+				0051F5851C478FE200EB0566 /* SliderTableViewCell.m in Sources */,
+				0051F5691C45EC7D00EB0566 /* NWFRangeSliderView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -304,6 +406,7 @@
 				1897D58F1C4541BE00DC81E6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

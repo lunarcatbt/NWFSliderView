@@ -8,9 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface NWFSliderTickView : UIView
+@interface NWFSliderTickView : UISlider
 
-- (instancetype)initWithFrame:(CGRect)frame rangeOfSlider:(BOOL)isRange;
+@property (nonatomic,assign) CGFloat xPosition;
+@property (nonatomic,strong) UILabel *numLabel;
 
 - (void)setupTickNumberWithItems:(NSArray *)items;
 
